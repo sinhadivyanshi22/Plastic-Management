@@ -6,7 +6,7 @@ A responsive and informative website that promotes the **Reduce, Reuse, and Recy
 
 ## 🌐 Live Demo
 
-👉 [Click here to view the website](https://sinhadivyanshi22.github.io/sinhadivyanshi22PlasticManagement.github.io/)
+👉 [Click here to view the website](https://sinhadivyanshi22.github.io/Plastic-Management/)
 
 ---
 
