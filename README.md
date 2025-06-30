@@ -41,6 +41,6 @@ A responsive and informative website that promotes the **Reduce, Reuse, and Recy
 ## 🙋‍♀️ Author
 
 **Divyanshi Sinha**  
-Connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile) 
+Connect with me on [LinkedIn](https://www.linkedin.com/in/divyanshi-sinha-9765022a0/) 
 
 ---
